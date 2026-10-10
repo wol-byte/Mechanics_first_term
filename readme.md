@@ -1,5 +1,5 @@
 # Laboratory assignments for the physics practical course “Mechanics” in 2026 (autumn term)
-[Русский](#информация-на-русском)
+[Русский](#лабораторные-работы-по-физическому-практикуму-"Механика"-2026 года-(осенний-семестр))
 ## Description
 This project is an archive of laboratory work completed over the course of the semester, implemented using modern computer technologies (Python, Jupyter, LaTeX, etc.).
 ## Navigation
@@ -8,7 +8,6 @@ The laboratory works are divided into folders. One folder corresponds to one wor
 All rights to the code belong to the author. 
 The use, copying, modification, or distribution of this code for any purpose is **prohibited** without prior written consent from the author.
 
-# Информация на русском
 # Лабораторные работы по физическому практикуму "Механика" 2026 года (осенний семестр)
 ## Описание
 Данный проект представляет собой архив проделанных лаборатных работ в течении семестра, реализованных с помощью современных компьютерных технологий (python, jupyter, latex и др.)
